@@ -1,4 +1,4 @@
-# Mitravitt - Your Smart Financial Friend
+# Mitravitt - Your Financial Friend
 
 Mitravitt is an AI-powered financial assistant that helps users with **budgeting insights, investment suggestions, and financial planning**. It uses **speech recognition, text-to-speech, and machine learning** to provide intelligent recommendations.
 
